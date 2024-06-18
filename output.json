@@ -1,0 +1,118 @@
+[
+  {
+    "name": "CITY PRO",
+    "properties": [
+      {
+        "full_address": "AVENIDA EUSEBIO MATOSO, 414",
+        "initial_price": 20252
+      },
+      {
+        "full_address": "RUA FRANCA, 396A",
+        "initial_price": 19032
+      },
+      {
+        "full_address": "RUA FRADIQUE COUTINHO, 1443",
+        "initial_price": 16104
+      },
+      {
+        "full_address": "RUA FRANCA, 90",
+        "initial_price": 14396
+      },
+      {
+        "full_address": "RUA FRADIQUE COUTINHO, 1420",
+        "initial_price": 13908
+      }
+    ],
+    "boost": 1.4
+  },
+  {
+    "name": "PINHEIROS",
+    "properties": [
+      {
+        "full_address": "RUA GRECIA, 321",
+        "initial_price": 11712
+      },
+      {
+        "full_address": "RUA PROFESSOR ARTUR RAMOS, 241B",
+        "initial_price": 10980
+      },
+      {
+        "full_address": "RUA DOS PINHEIROS, 547D",
+        "initial_price": 6100
+      }
+    ],
+    "boost": 1.34
+  },
+  {
+    "name": "PARI",
+    "properties": [
+      {
+        "full_address": "RUA SIQUEIRA AFONSO, 66",
+        "initial_price": 7221
+      },
+      {
+        "full_address": "RUA PASCOAL MALATESTA, 127",
+        "initial_price": 6723
+      },
+      {
+        "full_address": "RUA APARECIDA, 187",
+        "initial_price": 6225
+      }
+    ],
+    "boost": 1.63
+  },
+  {
+    "name": "SANTA CECILIA",
+    "properties": [
+      {
+        "full_address": "RUA DR. CANDIDO ESPINHEIRA, 128",
+        "initial_price": 8235
+      },
+      {
+        "full_address": "RUA CONEGO VICENTE MIGUEL MARINO, 338",
+        "initial_price": 6039
+      },
+      {
+        "full_address": "RUA CANUTO DO VAL, 105",
+        "initial_price": 4758
+      }
+    ],
+    "boost": 1.62
+  },
+  {
+    "name": "SAO PAULO",
+    "properties": [
+      {
+        "full_address": "RUA JOAQUIM MURTINHO, 256",
+        "initial_price": 6696
+      },
+      {
+        "full_address": "RUA FRANCISCA MIQUELINA, 306",
+        "initial_price": 5070
+      },
+      {
+        "full_address": "RUA ARIZONA, 1099A",
+        "initial_price": 4403
+      }
+    ],
+    "boost": 1.25
+  },
+  {
+    "name": "NEWBIE",
+    "properties": [
+      {
+        "full_address": "RUA MONSENHOR ANDRADE, 111C",
+        "initial_price": 4292
+      },
+      {
+        "full_address": "RUA VENTURA ALVES CARNEIRO, 43",
+        "initial_price": 3782
+      },
+      {
+        "full_address": "RUA BACKER, 542",
+        "initial_price": 3584
+      }
+    ],
+    "boost": 1.1
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "SAO PAULO",
+    "maxProperties": 3,
+    "neighborhood": null,
+    "boost": 1.25
+  },
+  {
+    "name": "PINHEIROS",
+    "max_properties": 3,
+    "neighborhood": "PINHEIROS",
+    "boost": 1.34
+  },
+  {
+    "name": "NEWBIE",
+    "maxProperties": 1,
+    "neighborhood": null,
+    "boost": 1.1
+  },
+  {
+    "name": "KING OF THE STREET",
+    "maxProperties": 3,
+    "neighborhood": "STREET",
+    "boost": 1.3
+  },
+  {
+    "name": "CITY PRO",
+    "maxProperties": 5,
+    "neighborhood": null,
+    "boost": 1.4
+  },
+  {
+    "name": "SANTA CECILIA",
+    "maxProperties": 3,
+    "neighborhood": "SANTA CECILIA",
+    "boost": 1.62
+  },
+  {
+    "name": "PARI",
+    "maxProperties": 3,
+    "neighborhood": "PARI",
+    "boost": 1.63
+  }
+]

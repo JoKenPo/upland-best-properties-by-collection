@@ -1,0 +1,786 @@
+[
+  {
+    "prop_id": 41278733883567,
+    "full_address": "RUA VENTURA ALVES CARNEIRO, 43",
+    "status": "Owned",
+    "price": 3782,
+    "initial_price": 3782,
+    "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-46.705632000000001,-23.694330000000001],[-46.705778000000002,-23.694544],[-46.705734999999997,-23.694569000000001],[-46.705691999999999,-23.694593000000001],[-46.705550000000002,-23.694378],[-46.705632000000001,-23.694330000000001]]]}",
+    "centerlat": "-23.694462040282136",
+    "centerlng": "-46.705663573141251",
+    "fiat_price": null,
+    "feature": null,
+    "street": {
+      "id": 120876,
+      "name": "VENTURA ALVES CARNEIRO"
+    },
+    "state": {
+      "id": 16,
+      "name": "SP"
+    },
+    "city": {
+      "id": 48,
+      "name": "Sao Paulo"
+    },
+    "collection_boost": 1.1,
+    "yield_per_hour": 0.021448840727098413,
+    "is_offering": false,
+    "is_blocked": false,
+    "constructionStatus": null,
+    "construction": null,
+    "nftID": null,
+    "building_image": null,
+    "building_type": null,
+    "building_name": null,
+    "model_id": null,
+    "max_plant_sparks_stake_capacity": null,
+    "neighborhood_name": "INTERLAGOS",
+    "sale_upx_price": null,
+    "sale_fiat_price": null
+  },
+  {
+    "prop_id": 41330256718078,
+    "full_address": "RUA ARIZONA, 1099A",
+    "status": "Owned",
+    "price": 4403,
+    "initial_price": 4403,
+    "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-46.691668511635456,-23.611695891629655],[-46.691724164734431,-23.611650836318848],[-46.691858610312146,-23.611795478031361],[-46.691801468715497,-23.611840081859409],[-46.691668511635456,-23.611695891629655]]]}",
+    "centerlat": "-23.611745679195014",
+    "centerlng": "-46.691763341326165",
+    "fiat_price": null,
+    "feature": null,
+    "street": {
+      "id": 117433,
+      "name": "ARIZONA"
+    },
+    "state": {
+      "id": 16,
+      "name": "SP"
+    },
+    "city": {
+      "id": 48,
+      "name": "Sao Paulo"
+    },
+    "collection_boost": 1,
+    "yield_per_hour": 0.024970715420786438,
+    "is_offering": false,
+    "is_blocked": false,
+    "constructionStatus": "completed",
+    "construction": null,
+    "nftID": 4300388,
+    "building_image": "micro_house/micro_house_IPFS_sz.png",
+    "building_type": "residential",
+    "building_name": "Micro House",
+    "model_id": 216,
+    "neighborhood_name": "ITAIM BIBI",
+    "sale_upx_price": null,
+    "sale_fiat_price": null
+  },
+  {
+    "prop_id": 41348510329277,
+    "full_address": "RUA PROFESSOR ARTUR RAMOS, 241B",
+    "status": "For sale",
+    "price": 10980,
+    "initial_price": 10980,
+    "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-46.686188537177308,-23.582519104578292],[-46.686108187802922,-23.582476172555037],[-46.686139688717553,-23.582392588369707],[-46.68623855557383,-23.582130299400323],[-46.686331295343351,-23.582179186769675],[-46.686188537177308,-23.582519104578292]]]}",
+    "centerlat": "-23.582322172783183",
+    "centerlng": "-46.686218256221053",
+    "fiat_price": null,
+    "feature": null,
+    "street": {
+      "id": 119229,
+      "name": "PROFESSOR ARTUR RAMOS"
+    },
+    "state": {
+      "id": 16,
+      "name": "SP"
+    },
+    "city": {
+      "id": 48,
+      "name": "Sao Paulo"
+    },
+    "collection_boost": 1.25,
+    "yield_per_hour": 0.06227082791738249,
+    "is_offering": false,
+    "is_blocked": false,
+    "constructionStatus": null,
+    "construction": null,
+    "nftID": null,
+    "building_image": null,
+    "building_type": null,
+    "building_name": null,
+    "model_id": null,
+    "max_plant_sparks_stake_capacity": null,
+    "neighborhood_name": "PINHEIROS",
+    "sale_upx_price": 14151,
+    "sale_fiat_price": null
+  },
+  {
+    "prop_id": 41352721410844,
+    "full_address": "RUA FRANCA, 396A",
+    "status": "For sale",
+    "price": 19032,
+    "initial_price": 19032,
+    "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-46.67597526920126,-23.575710748080862],[-46.6757871038633,-23.575753792547673],[-46.675686330241803,-23.57540007572171],[-46.675774834910641,-23.575424020957126],[-46.675913833559569,-23.575461628657916],[-46.67597526920126,-23.575710748080862]]]}",
+    "centerlat": "-23.575579925619937",
+    "centerlng": "-46.675834284570179",
+    "fiat_price": null,
+    "feature": null,
+    "street": {
+      "id": 118313,
+      "name": "FRANCA"
+    },
+    "state": {
+      "id": 16,
+      "name": "SP"
+    },
+    "city": {
+      "id": 48,
+      "name": "Sao Paulo"
+    },
+    "collection_boost": 1.4,
+    "yield_per_hour": 0.10793610172346298,
+    "is_offering": false,
+    "is_blocked": false,
+    "constructionStatus": null,
+    "construction": null,
+    "nftID": null,
+    "building_image": null,
+    "building_type": null,
+    "building_name": null,
+    "model_id": null,
+    "max_plant_sparks_stake_capacity": null,
+    "neighborhood_name": "PINHEIROS",
+    "sale_upx_price": 23000,
+    "sale_fiat_price": null
+  },
+  {
+    "prop_id": 41352771742570,
+    "full_address": "RUA FRANCA, 90",
+    "status": "For sale",
+    "price": 14396,
+    "initial_price": 14396,
+    "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-46.673493639900151,-23.575388424657007],[-46.673693244308254,-23.575534511974919],[-46.673576915005469,-23.57567050397757],[-46.673359725770389,-23.575533930607257],[-46.673493639900151,-23.575388424657007]]]}",
+    "centerlat": "-23.575531044047395",
+    "centerlng": "-46.673528945977857",
+    "fiat_price": null,
+    "feature": null,
+    "street": {
+      "id": 118313,
+      "name": "FRANCA"
+    },
+    "state": {
+      "id": 16,
+      "name": "SP"
+    },
+    "city": {
+      "id": 48,
+      "name": "Sao Paulo"
+    },
+    "collection_boost": 1.4,
+    "yield_per_hour": 0.08164397438056815,
+    "is_offering": false,
+    "is_blocked": false,
+    "constructionStatus": null,
+    "construction": null,
+    "nftID": null,
+    "building_image": null,
+    "building_type": null,
+    "building_name": null,
+    "model_id": null,
+    "max_plant_sparks_stake_capacity": null,
+    "neighborhood_name": "PINHEIROS",
+    "sale_upx_price": 20000,
+    "sale_fiat_price": null
+  },
+  {
+    "prop_id": 41353241504216,
+    "full_address": "RUA GRECIA, 321",
+    "status": "Owned",
+    "price": 11000,
+    "initial_price": 11712,
+    "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-46.68532291015471,-23.574575013773799],[-46.685350972409161,-23.57457761619704],[-46.685420215866749,-23.574584038665229],[-46.68543992320668,-23.574585866611148],[-46.685403040079606,-23.574903885837799],[-46.685285933365918,-23.574893699521798],[-46.68532291015471,-23.574575013773799]]]}",
+    "centerlat": "-23.574739618175077",
+    "centerlng": "-46.685362930814421",
+    "fiat_price": null,
+    "feature": null,
+    "street": {
+      "id": 118414,
+      "name": "GRECIA"
+    },
+    "state": {
+      "id": 16,
+      "name": "SP"
+    },
+    "city": {
+      "id": 48,
+      "name": "Sao Paulo"
+    },
+    "collection_boost": 1,
+    "yield_per_hour": 0.06642221644520799,
+    "is_offering": false,
+    "is_blocked": true,
+    "constructionStatus": null,
+    "construction": null,
+    "nftID": null,
+    "building_image": null,
+    "building_type": null,
+    "building_name": null,
+    "model_id": null,
+    "max_plant_sparks_stake_capacity": null,
+    "neighborhood_name": "PINHEIROS",
+    "sale_upx_price": null,
+    "sale_fiat_price": null
+  },
+  {
+    "prop_id": 41355489650845,
+    "full_address": "AVENIDA EUSEBIO MATOSO, 414",
+    "status": "Owned",
+    "price": 18500,
+    "initial_price": 20252,
+    "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-46.694672879395732,-23.571310180120975],[-46.69452484752469,-23.571292997586458],[-46.694584774541426,-23.570845126119085],[-46.694730663725714,-23.570860833241149],[-46.694672879395732,-23.571310180120975]]]}",
+    "centerlat": "-23.571077873689294",
+    "centerlng": "-46.694628247699377",
+    "fiat_price": null,
+    "feature": null,
+    "street": {
+      "id": 118268,
+      "name": "EUSEBIO MATOSO"
+    },
+    "state": {
+      "id": 16,
+      "name": "SP"
+    },
+    "city": {
+      "id": 48,
+      "name": "Sao Paulo"
+    },
+    "collection_boost": 1,
+    "yield_per_hour": 0.11485508260317215,
+    "is_offering": false,
+    "is_blocked": false,
+    "constructionStatus": null,
+    "construction": null,
+    "nftID": null,
+    "building_image": null,
+    "building_type": null,
+    "building_name": null,
+    "model_id": null,
+    "max_plant_sparks_stake_capacity": null,
+    "neighborhood_name": "PINHEIROS",
+    "sale_upx_price": null,
+    "sale_fiat_price": null
+  },
+  {
+    "prop_id": 41356378845849,
+    "full_address": "RUA BACKER, 542",
+    "status": "Owned",
+    "price": 3584,
+    "initial_price": 3584,
+    "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-46.619495468000963,-23.569808614337123],[-46.619497266317488,-23.569879536027582],[-46.619485464030269,-23.569879195493083],[-46.619249723472294,-23.569874829558696],[-46.619256132558313,-23.569767151037158],[-46.619492170738106,-23.569766374096083],[-46.619495468000963,-23.569808614337123]]]}",
+    "centerlat": "-23.569822377424615",
+    "centerlng": "-46.619375139240688",
+    "fiat_price": null,
+    "feature": null,
+    "street": {
+      "id": 117476,
+      "name": "BACKER"
+    },
+    "state": {
+      "id": 16,
+      "name": "SP"
+    },
+    "city": {
+      "id": 48,
+      "name": "Sao Paulo"
+    },
+    "collection_boost": 1,
+    "yield_per_hour": 0.020325924158096434,
+    "is_offering": false,
+    "is_blocked": false,
+    "constructionStatus": null,
+    "construction": null,
+    "nftID": null,
+    "building_image": null,
+    "building_type": null,
+    "building_name": null,
+    "model_id": null,
+    "max_plant_sparks_stake_capacity": null,
+    "neighborhood_name": "CAMBUCI",
+    "sale_upx_price": null,
+    "sale_fiat_price": null
+  },
+  {
+    "prop_id": 41358610213417,
+    "full_address": "RUA DOS PINHEIROS, 547D",
+    "status": "Owned",
+    "price": 6100,
+    "initial_price": 6100,
+    "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-46.682867670778002,-23.566229019045071],[-46.682832759360721,-23.566212151495915],[-46.682888299555806,-23.566127584292254],[-46.683057410585604,-23.566216237616523],[-46.683032953908338,-23.566253737319347],[-46.683001444428925,-23.566300776751614],[-46.682867670778002,-23.566229019045071]]]}",
+    "centerlat": "-23.566214005734615",
+    "centerlng": "-46.682945370326415",
+    "fiat_price": null,
+    "feature": null,
+    "street": {
+      "id": 118060,
+      "name": "DOS PINHEIROS"
+    },
+    "state": {
+      "id": 16,
+      "name": "SP"
+    },
+    "city": {
+      "id": 48,
+      "name": "Sao Paulo"
+    },
+    "collection_boost": 1.25,
+    "yield_per_hour": 0.03459490439854583,
+    "is_offering": false,
+    "is_blocked": false,
+    "constructionStatus": "completed",
+    "construction": null,
+    "nftID": 4240172,
+    "building_image": "small_town_house_new2/flat2_thumbnail_sz.png",
+    "building_type": "residential",
+    "building_name": "Small Town House",
+    "model_id": 34,
+    "neighborhood_name": "PINHEIROS",
+    "sale_upx_price": null,
+    "sale_fiat_price": null
+  },
+  {
+    "prop_id": 41365304325981,
+    "full_address": "RUA FRADIQUE COUTINHO, 1443",
+    "status": "For sale",
+    "price": 16104,
+    "initial_price": 16104,
+    "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-46.692575178672193,-23.555459370021815],[-46.692532208850579,-23.555522077666886],[-46.692509761310809,-23.555554836293844],[-46.692101335217487,-23.555306867022029],[-46.692163394596193,-23.555217266759101],[-46.692575178672193,-23.555459370021815]]]}",
+    "centerlat": "-23.555385824830775",
+    "centerlng": "-46.692339470970708",
+    "fiat_price": null,
+    "feature": null,
+    "street": {
+      "id": 118312,
+      "name": "FRADIQUE COUTINHO"
+    },
+    "state": {
+      "id": 16,
+      "name": "SP"
+    },
+    "city": {
+      "id": 48,
+      "name": "Sao Paulo"
+    },
+    "collection_boost": 1.4,
+    "yield_per_hour": 0.09133054761216099,
+    "is_offering": false,
+    "is_blocked": false,
+    "constructionStatus": null,
+    "construction": null,
+    "nftID": null,
+    "building_image": null,
+    "building_type": null,
+    "building_name": null,
+    "model_id": null,
+    "max_plant_sparks_stake_capacity": null,
+    "neighborhood_name": "PINHEIROS",
+    "sale_upx_price": 19404,
+    "sale_fiat_price": null
+  },
+  {
+    "prop_id": 41365354657653,
+    "full_address": "RUA FRADIQUE COUTINHO, 1420",
+    "status": "Owned",
+    "price": 13908,
+    "initial_price": 13908,
+    "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-46.691412859467476,-23.55519714382233],[-46.691465902372627,-23.555121880439607],[-46.691875032864658,-23.555369149933398],[-46.691820893196564,-23.555446416523441],[-46.691412859467476,-23.55519714382233]]]}",
+    "centerlat": "-23.555284158588186",
+    "centerlng": "-46.691644504823984",
+    "fiat_price": null,
+    "feature": null,
+    "street": {
+      "id": 118312,
+      "name": "FRADIQUE COUTINHO"
+    },
+    "state": {
+      "id": 16,
+      "name": "SP"
+    },
+    "city": {
+      "id": 48,
+      "name": "Sao Paulo"
+    },
+    "collection_boost": 1.4,
+    "yield_per_hour": 0.0788763820286845,
+    "is_offering": false,
+    "is_blocked": false,
+    "constructionStatus": null,
+    "construction": null,
+    "nftID": null,
+    "building_image": null,
+    "building_type": null,
+    "building_name": null,
+    "model_id": null,
+    "max_plant_sparks_stake_capacity": null,
+    "neighborhood_name": "PINHEIROS",
+    "sale_upx_price": null,
+    "sale_fiat_price": null
+  },
+  {
+    "prop_id": 41365891530324,
+    "full_address": "RUA FRANCISCA MIQUELINA, 306",
+    "status": "Owned",
+    "price": 5070,
+    "initial_price": 5070,
+    "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-46.640314512639854,-23.554493283123939],[-46.640090035682718,-23.554587114337437],[-46.640051646471107,-23.554518099216306],[-46.640341918045067,-23.554384469735378],[-46.640314512639854,-23.554493283123939]]]}",
+    "centerlat": "-23.554492716115544",
+    "centerlng": "-46.640201928290722",
+    "fiat_price": null,
+    "feature": null,
+    "street": {
+      "id": 118316,
+      "name": "FRANCISCA MIQUELINA"
+    },
+    "state": {
+      "id": 16,
+      "name": "SP"
+    },
+    "city": {
+      "id": 48,
+      "name": "Sao Paulo"
+    },
+    "collection_boost": 1.25,
+    "yield_per_hour": 0.02875346972141432,
+    "is_offering": false,
+    "is_blocked": false,
+    "constructionStatus": null,
+    "construction": null,
+    "nftID": null,
+    "building_image": null,
+    "building_type": null,
+    "building_name": null,
+    "model_id": null,
+    "max_plant_sparks_stake_capacity": null,
+    "neighborhood_name": "REPUBLICA",
+    "sale_upx_price": null,
+    "sale_fiat_price": null
+  },
+  {
+    "prop_id": 41372099100890,
+    "full_address": "RUA MONSENHOR ANDRADE, 111C",
+    "status": "Owned",
+    "price": 4292,
+    "initial_price": 4292,
+    "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-46.621037812136521,-23.544425131906522],[-46.62121156740082,-23.544499314408895],[-46.621132852563065,-23.544611756882322],[-46.620978073747565,-23.544512990426981],[-46.621037812136521,-23.544425131906522]]]}",
+    "centerlat": "-23.54451404851369",
+    "centerlng": "-46.621093592390224",
+    "fiat_price": null,
+    "feature": null,
+    "street": {
+      "id": 118955,
+      "name": "MONSENHOR ANDRADE"
+    },
+    "state": {
+      "id": 16,
+      "name": "SP"
+    },
+    "city": {
+      "id": 48,
+      "name": "Sao Paulo"
+    },
+    "collection_boost": 1,
+    "yield_per_hour": 0.024341201586648965,
+    "is_offering": false,
+    "is_blocked": false,
+    "constructionStatus": null,
+    "construction": null,
+    "nftID": null,
+    "building_image": null,
+    "building_type": null,
+    "building_name": null,
+    "model_id": null,
+    "max_plant_sparks_stake_capacity": null,
+    "neighborhood_name": "BRAS",
+    "sale_upx_price": null,
+    "sale_fiat_price": null
+  },
+  {
+    "prop_id": 41374582127820,
+    "full_address": "RUA CANUTO DO VAL, 105",
+    "status": "Owned",
+    "price": 4758,
+    "initial_price": 4758,
+    "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-46.651543347070017,-23.54045464774881],[-46.651649709199013,-23.540423403437494],[-46.651707701322046,-23.540600514106686],[-46.65159846022835,-23.540630720749963],[-46.651543347070017,-23.54045464774881]]]}",
+    "centerlat": "-23.540527615387745",
+    "centerlng": "-46.651624993098018",
+    "fiat_price": null,
+    "feature": null,
+    "street": {
+      "id": 117633,
+      "name": "CANUTO DO VAL"
+    },
+    "state": {
+      "id": 16,
+      "name": "SP"
+    },
+    "city": {
+      "id": 48,
+      "name": "Sao Paulo"
+    },
+    "collection_boost": 1.62,
+    "yield_per_hour": 0.026984025430865744,
+    "is_offering": false,
+    "is_blocked": false,
+    "constructionStatus": null,
+    "construction": null,
+    "nftID": null,
+    "building_image": null,
+    "building_type": null,
+    "building_name": null,
+    "model_id": null,
+    "max_plant_sparks_stake_capacity": null,
+    "neighborhood_name": "SANTA CECILIA",
+    "sale_upx_price": null,
+    "sale_fiat_price": null
+  },
+  {
+    "prop_id": 41378541550470,
+    "full_address": "RUA DR. CANDIDO ESPINHEIRA, 128",
+    "status": "Owned",
+    "price": 8235,
+    "initial_price": 8235,
+    "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-46.661110475142472,-23.534193299185169],[-46.661300636162707,-23.534109346513194],[-46.661352324174054,-23.534207160205806],[-46.661154280041423,-23.534286615358166],[-46.661110475142472,-23.534193299185169]]]}",
+    "centerlat": "-23.534198836287249",
+    "centerlng": "-46.661230617356104",
+    "fiat_price": null,
+    "feature": null,
+    "street": {
+      "id": 118192,
+      "name": "DR. CANDIDO ESPINHEIRA"
+    },
+    "state": {
+      "id": 16,
+      "name": "SP"
+    },
+    "city": {
+      "id": 48,
+      "name": "Sao Paulo"
+    },
+    "collection_boost": 1.62,
+    "yield_per_hour": 0.046703120938036864,
+    "is_offering": false,
+    "is_blocked": false,
+    "constructionStatus": "processing",
+    "construction": {
+      "propModelID": 817634,
+      "stackedSparks": 0.68,
+      "totalSparksRequired": 2600,
+      "progressInSparks": 61.5759444444444,
+      "rentedSparks": 0,
+      "startedAt": "2024-06-17T13:52:02.500Z",
+      "finishedAt": "2024-11-20T02:50:38.088Z"
+    },
+    "nftID": 4698075,
+    "building_image": "town_house_new/town_baked.png",
+    "building_type": "residential",
+    "building_name": "Town House",
+    "model_id": 33,
+    "neighborhood_name": "SANTA CECILIA",
+    "sale_upx_price": null,
+    "sale_fiat_price": null
+  },
+  {
+    "prop_id": 41382198985366,
+    "full_address": "RUA SIQUEIRA AFONSO, 66",
+    "status": "Owned",
+    "price": 7221,
+    "initial_price": 7221,
+    "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-46.608131598778982,-23.528347135482107],[-46.608078345435949,-23.528396502149555],[-46.607883904868615,-23.528222071161018],[-46.607802362916857,-23.528148920565712],[-46.607850265610182,-23.52810253941869],[-46.608131598778982,-23.528347135482107]]]}",
+    "centerlat": "-23.528250466884391",
+    "centerlng": "-46.607967595268583",
+    "fiat_price": null,
+    "feature": null,
+    "street": {
+      "id": 119497,
+      "name": "SIQUEIRA AFONSO"
+    },
+    "state": {
+      "id": 16,
+      "name": "SP"
+    },
+    "city": {
+      "id": 48,
+      "name": "Sao Paulo"
+    },
+    "collection_boost": 1.63,
+    "yield_per_hour": 0.040952426993754,
+    "is_offering": false,
+    "is_blocked": false,
+    "constructionStatus": null,
+    "construction": null,
+    "nftID": null,
+    "building_image": null,
+    "building_type": null,
+    "building_name": null,
+    "model_id": null,
+    "max_plant_sparks_stake_capacity": null,
+    "neighborhood_name": "PARI",
+    "sale_upx_price": null,
+    "sale_fiat_price": null
+  },
+  {
+    "prop_id": 41382987514109,
+    "full_address": "RUA PASCOAL MALATESTA, 127",
+    "status": "Owned",
+    "price": 6723,
+    "initial_price": 6723,
+    "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-46.620102676936973,-23.52712150720193],[-46.620041526812081,-23.527086711824001],[-46.620275748630434,-23.526866977953176],[-46.620331842892391,-23.526897204184557],[-46.620102676936973,-23.52712150720193]]]}",
+    "centerlat": "-23.526995077867191",
+    "centerlng": "-46.620185923901822",
+    "fiat_price": null,
+    "feature": null,
+    "street": {
+      "id": 119100,
+      "name": "PASCOAL MALATESTA"
+    },
+    "state": {
+      "id": 16,
+      "name": "SP"
+    },
+    "city": {
+      "id": 48,
+      "name": "Sao Paulo"
+    },
+    "collection_boost": 1.63,
+    "yield_per_hour": 0.03812812168383994,
+    "is_offering": false,
+    "is_blocked": false,
+    "constructionStatus": null,
+    "construction": null,
+    "nftID": null,
+    "building_image": null,
+    "building_type": null,
+    "building_name": null,
+    "model_id": null,
+    "max_plant_sparks_stake_capacity": null,
+    "neighborhood_name": "PARI",
+    "sale_upx_price": null,
+    "sale_fiat_price": null
+  },
+  {
+    "prop_id": 41383239171281,
+    "full_address": "RUA CONEGO VICENTE MIGUEL MARINO, 338",
+    "status": "Owned",
+    "price": 6039,
+    "initial_price": 6039,
+    "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-46.651425594013141,-23.526727565601778],[-46.65142596227961,-23.52651846238648],[-46.651497022531395,-23.526518042252277],[-46.651497406684655,-23.526717517038019],[-46.651425594013141,-23.526727565601778]]]}",
+    "centerlat": "-23.526620596658873",
+    "centerlng": "-46.651461217416404",
+    "fiat_price": null,
+    "feature": null,
+    "street": {
+      "id": 117775,
+      "name": "CONEGO VICENTE MIGUEL MARINO"
+    },
+    "state": {
+      "id": 16,
+      "name": "SP"
+    },
+    "city": {
+      "id": 48,
+      "name": "Sao Paulo"
+    },
+    "collection_boost": 1.62,
+    "yield_per_hour": 0.03424895535456037,
+    "is_offering": false,
+    "is_blocked": false,
+    "constructionStatus": null,
+    "construction": null,
+    "nftID": null,
+    "building_image": null,
+    "building_type": null,
+    "building_name": null,
+    "model_id": null,
+    "max_plant_sparks_stake_capacity": null,
+    "neighborhood_name": "SANTA CECILIA",
+    "sale_upx_price": null,
+    "sale_fiat_price": null
+  },
+  {
+    "prop_id": 41383742488298,
+    "full_address": "RUA JOAQUIM MURTINHO, 256",
+    "status": "Owned",
+    "price": 6696,
+    "initial_price": 6696,
+    "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-46.636108150098778,-23.525832406973066],[-46.63564441601261,-23.525917097979363],[-46.635635602093863,-23.525861022868654],[-46.636098934048533,-23.52576566377331],[-46.636108150098778,-23.525832406973066]]]}",
+    "centerlat": "-23.525842758981991",
+    "centerlng": "-46.635878345944619",
+    "fiat_price": null,
+    "feature": null,
+    "street": {
+      "id": 118660,
+      "name": "JOAQUIM MURTINHO"
+    },
+    "state": {
+      "id": 16,
+      "name": "SP"
+    },
+    "city": {
+      "id": 48,
+      "name": "Sao Paulo"
+    },
+    "collection_boost": 1.4,
+    "yield_per_hour": 0.03797499669715785,
+    "is_offering": false,
+    "is_blocked": false,
+    "constructionStatus": null,
+    "construction": null,
+    "nftID": null,
+    "building_image": null,
+    "building_type": null,
+    "building_name": null,
+    "model_id": null,
+    "max_plant_sparks_stake_capacity": null,
+    "neighborhood_name": "BOM RETIRO",
+    "sale_upx_price": null,
+    "sale_fiat_price": null
+  },
+  {
+    "prop_id": 41383876706716,
+    "full_address": "RUA APARECIDA, 187",
+    "status": "Owned",
+    "price": 6225,
+    "initial_price": 6225,
+    "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-46.615583323945202,-23.525515283893366],[-46.615412949644366,-23.525714422686551],[-46.615353560191892,-23.525663435506178],[-46.61551960849232,-23.525473194738133],[-46.615583323945202,-23.525515283893366]]]}",
+    "centerlat": "-23.525592266820112",
+    "centerlng": "-46.615467091396049",
+    "fiat_price": null,
+    "feature": null,
+    "street": {
+      "id": 117411,
+      "name": "APARECIDA"
+    },
+    "state": {
+      "id": 16,
+      "name": "SP"
+    },
+    "city": {
+      "id": 48,
+      "name": "Sao Paulo"
+    },
+    "collection_boost": 1.63,
+    "yield_per_hour": 0.035303816373925864,
+    "is_offering": false,
+    "is_blocked": false,
+    "constructionStatus": "completed",
+    "construction": null,
+    "nftID": 2863527,
+    "building_image": "micro_house/micro_house_IPFS_sz.png",
+    "building_type": "residential",
+    "building_name": "Micro House",
+    "model_id": 216,
+    "neighborhood_name": "PARI",
+    "sale_upx_price": null,
+    "sale_fiat_price": null
+  }
+]
